@@ -38,11 +38,9 @@ A simple, interactive **Gradio web app** is built to make predictions on uploade
 
 ```
 ├── app.py              # Gradio web application
-├── cats_vs_dogs.h5     # Trained deep learning model
+├── cats_vs_dogs.ipynb  # Deep learning model notebook
 ├── README.md           # Project documentation
 ├── requirements.txt    # List of dependencies
-├── dog.jpg             # Example image
-├── cat.jpg             # Example image
 ```
 
 ---
@@ -57,7 +55,7 @@ A simple, interactive **Gradio web app** is built to make predictions on uploade
 
 ## 📸 Demo
 
-![Demo](https://huggingface.co/spaces/AyushAggarwal/Cats-vs-Dogs-Image-Recognition-App)
+# [⭐Try me!⭐](https://huggingface.co/spaces/AyushAggarwal/Cats-vs-Dogs-Image-Recognition-App)
 
 ---
 
