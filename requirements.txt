@@ -1,0 +1,5 @@
+gradio==3.50
+tensorflow==2.14.1
+numpy==1.23.5
+Pillow==8.4
+tensorflow-hub==0.14
