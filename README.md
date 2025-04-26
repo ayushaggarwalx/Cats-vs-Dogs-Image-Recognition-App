@@ -63,7 +63,7 @@ A simple, interactive **Gradio web app** is built to make predictions on uploade
 
 1. Clone this repository:
    \`\`\`bash
-   git clone https://github.com/your-username/Cats-vs-Dogs-Image-Recognition-App.git
+   git clone https://github.com/ayushaggarwalx/Cats-vs-Dogs-Image-Recognition-App.git
    cd Cats-vs-Dogs-Image-Recognition-App
    \`\`\`
 
